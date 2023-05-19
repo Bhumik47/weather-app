@@ -215,7 +215,9 @@
         width: 100%;
         max-width: none;
     }
-
+    .loading-container{
+    gap:100px;
+    }
     .loading-container img {
         height: auto;
         width: 100%;
