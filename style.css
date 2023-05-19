@@ -240,9 +240,7 @@
 
     .error.active {
         margin-top: 5rem;
-    }
-    .error.active img{
-        display:flex;
+        display: flex;
     }
 
     .form-container input {
