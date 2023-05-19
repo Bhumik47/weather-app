@@ -216,6 +216,8 @@
         max-width: none;
     }
     .loading-container{
+        display:flex;
+        flex-direction:column;
     gap:100px;
     }
     .loading-container img {
