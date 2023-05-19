@@ -112,7 +112,7 @@ function getlocation() {
 
 function showPosition(position) {
     const userCoordinates = {
-        lat: position.coords.lattitude,
+        lat: position.coords.latitude,
         lon: position.coords.longitude,
     }
     sessionStorage.setItem("user-coordinates", JSON.stringify(userCoordinates));
