@@ -241,6 +241,9 @@
     .error.active {
         margin-top: 5rem;
     }
+    .error.active img{
+        display:flex;
+    }
 
     .form-container input {
         flex: none;
