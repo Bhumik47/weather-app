@@ -215,10 +215,6 @@
         width: 100%;
         max-width: none;
     }
-    .loading-container{
-        display:flex;
-        flex-direction:column;
-    gap:10px;
     }
     .loading-container img {
         height: auto;
